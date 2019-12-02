@@ -1,0 +1,6 @@
+[2019-11-22 21:29:19] local.ERROR: SQLSTATE[HY000] [2002] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+ (SQL: SHOW FULL TABLES WHERE table_type = 'BASE TABLE')  
+[2019-11-22 21:38:02] local.ERROR: SQLSTATE[HY000] [2002] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+ (SQL: SHOW FULL TABLES WHERE table_type = 'BASE TABLE')  
+[2019-11-22 21:42:56] local.ERROR: SQLSTATE[HY000] [2002] Nenhuma conexão pôde ser feita porque a máquina de destino as recusou ativamente.
+ (SQL: select * from `users` where `email` = teste@gmail.com limit 1)  
